@@ -1,0 +1,27 @@
+Sun Oct 16 23:38:38 MDT 2022 -> Brawler moved to room '1-1-1'
+Sun Oct 16 23:38:39 MDT 2022 -> Orbiter move to the room '4-2-0'
+Sun Oct 16 23:38:39 MDT 2022 -> Blinker move to the room '1-1-1'
+Sun Oct 16 23:38:39 MDT 2022 -> Orbiter move to the room '4-2-1'
+Sun Oct 16 23:38:39 MDT 2022 -> Blinker move to the room '2-1-2'
+Sun Oct 16 23:38:39 MDT 2022 -> Seeker move to the room '1-1-1'
+Sun Oct 16 23:38:39 MDT 2022 -> Orbiter move to the room '4-2-1'
+Sun Oct 16 23:38:39 MDT 2022 -> Blinker move to the room '3-2-1'
+Sun Oct 16 23:38:39 MDT 2022 -> Orbiter move to the room '2-0-0'
+Sun Oct 16 23:38:39 MDT 2022 -> Blinker move to the room '2-1-0'
+Sun Oct 16 23:38:49 MDT 2022 -> Brawler lost the fight!
+Sun Oct 16 23:38:49 MDT 2022 -> Brawler won the fight!
+Sun Oct 16 23:39:07 MDT 2022 -> Brawler moved to room '2-1-1'
+Sun Oct 16 23:39:07 MDT 2022 -> Orbiter move to the room '4-1-0'
+Sun Oct 16 23:39:07 MDT 2022 -> Blinker move to the room '1-1-0'
+Sun Oct 16 23:39:07 MDT 2022 -> Orbiter move to the room '4-2-0'
+Sun Oct 16 23:39:07 MDT 2022 -> Blinker move to the room '2-2-2'
+Sun Oct 16 23:39:07 MDT 2022 -> Seeker move to the room '2-1-1'
+Sun Oct 16 23:39:07 MDT 2022 -> Orbiter move to the room '4-2-0'
+Sun Oct 16 23:39:07 MDT 2022 -> Blinker move to the room '3-1-1'
+Sun Oct 16 23:39:07 MDT 2022 -> Seeker move to the room '2-1-1'
+Sun Oct 16 23:39:07 MDT 2022 -> Orbiter move to the room '2-1-0'
+Sun Oct 16 23:39:07 MDT 2022 -> Blinker move to the room '2-1-1'
+Sun Oct 16 23:39:11 MDT 2022 -> Brawler lost the fight!
+Sun Oct 16 23:39:11 MDT 2022 -> Brawler lost the fight!
+Sun Oct 16 23:39:11 MDT 2022 -> Brawler won the fight!
+Sun Oct 16 23:39:20 MDT 2022 -> Brawler found the treasure 'TRAP'
