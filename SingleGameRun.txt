@@ -1,0 +1,2457 @@
+/Users/adikelshiker/Library/Java/JavaVirtualMachines/openjdk-19/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49559:/Applications/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/adikelshiker/Downloads/RotLAGameSimulation/RotLAGameSimulation/src/out/production/RotLAGameSimulation controller.RotLAGameSimulation
+Welcome to RotLA Game Simulation
+
+1: Brawler
+2: Runner
+3: Sneaker
+4: Thief
+Select option: 1
+Adventurer selected
+
+RotLA Turn 1:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         0-1-1      0          12         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-2-1
+Orbiter         2-0-1
+Blinker         3-0-0
+Seeker          3-2-0
+Orbiter         1-0-1
+Blinker         3-2-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-1-0
+Seeker          1-0-1
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: DOWN
+Select direction: 1
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 2:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-1      0          12         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-0-2
+Seeker          1-1-1
+Orbiter         2-0-2
+Blinker         3-1-0
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-2-2
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-1-1
+
+RotLA Turn 2:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+Brawler lost the fight against 'Seeker'
+Brawler won the fight against 'Seeker'
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 2:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-1      1          11         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-0-2
+Seeker          1-1-1
+Orbiter         2-0-2
+Blinker         3-1-0
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-2-2
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-1-1
+
+RotLA Turn 2:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 2:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-1      1          11         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-0-2
+Seeker          1-1-1
+Orbiter         2-0-2
+Blinker         3-1-0
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-2-2
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-1-1
+
+RotLA Turn 2:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: NORTH
+3: SOUTH
+4: UP
+5: WEST
+6: DOWN
+Select direction: 5
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 3:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-2
+Seeker          1-1-0
+Orbiter         2-0-1
+Blinker         3-0-0
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         3-1-2
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-1-0
+
+RotLA Turn 3:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+Brawler won the fight against 'Seeker'
+Brawler won the fight against 'Orbiter'
+Brawler won the fight against 'Seeker'
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 3:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-2
+Seeker          1-1-0
+Orbiter         2-0-1
+Blinker         3-0-0
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         3-1-2
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-1-0
+
+RotLA Turn 3:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 3:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-2
+Seeker          1-1-0
+Orbiter         2-0-1
+Blinker         3-0-0
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         3-1-2
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-1-0
+
+RotLA Turn 3:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: NORTH
+3: SOUTH
+Select direction: 2
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 4:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 12
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-0
+Orbiter         2-0-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 4:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 4 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+Brawler won the fight against 'Seeker'
+Brawler won the fight against 'Orbiter'
+Brawler won the fight against 'Seeker'
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 4:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 11
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-0
+Orbiter         2-0-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 4:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 3 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+No any treasure found!
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 4:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 11
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-0
+Orbiter         2-0-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 4:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 3 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: shout, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 4:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 11
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-0
+Orbiter         2-0-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-0-0
+Blinker         3-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 4:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 3 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+Select direction: 1
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 5:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 11
+Creatures       Room
+Orbiter         3-1-0
+Blinker         3-1-1
+Seeker          1-0-1
+Orbiter         2-0-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-0-1
+Seeker          1-0-0
+
+RotLA Turn 5:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 3 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+Brawler won the fight against 'Seeker'
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 5:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-1-0
+Blinker         3-1-1
+Seeker          1-0-1
+Orbiter         2-0-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-0-1
+Seeker          1-0-0
+
+RotLA Turn 5:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 5:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-1-0
+Blinker         3-1-1
+Seeker          1-0-1
+Orbiter         2-0-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-0-1
+Seeker          1-0-0
+
+RotLA Turn 5:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: dance, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 5:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-1-0
+Blinker         3-1-1
+Seeker          1-0-1
+Orbiter         2-0-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-0-1
+Seeker          1-0-0
+
+RotLA Turn 5:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 5:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-1-0
+Blinker         3-1-1
+Seeker          1-0-1
+Orbiter         2-0-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-0-1
+Seeker          1-0-0
+
+RotLA Turn 5:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 5:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-1-0
+Blinker         3-1-1
+Seeker          1-0-1
+Orbiter         2-0-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-0-1
+Seeker          1-0-0
+
+RotLA Turn 5:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+3: WEST
+Select direction: 3
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 6:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-0-2
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-2-0
+Blinker         2-2-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 6:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 6:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-0-2
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-2-0
+Blinker         2-2-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 6:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 6:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-0-2
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-2-0
+Blinker         2-2-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 6:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+No any treasure found!
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 6:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-0-2
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-2-0
+Blinker         2-2-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 6:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: dance, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 6:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-0-2
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-2-0
+Blinker         2-2-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 6:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+Select direction: 2
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 7:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 10
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-1-2
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 7:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 4 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+Brawler won the fight against 'Orbiter'
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 7:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-1-2
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 7:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 7:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-1-2
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 7:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: jump, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 7:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-1-2
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 7:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: NORTH
+3: SOUTH
+Select direction: 2
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 8:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         1-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 8:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 8:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         1-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 8:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 8:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-0
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         1-1-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-0-0
+Seeker          1-0-0
+
+RotLA Turn 8:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+Select direction: 1
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 9:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-1-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 9:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 9:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-1-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 9:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 9:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-1-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 9:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: spin, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 9:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-1-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-2-1
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 9:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+3: WEST
+Select direction: 3
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 10:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-2-0
+Seeker          1-0-0
+
+RotLA Turn 10:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 10:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-2-0
+Seeker          1-0-0
+
+RotLA Turn 10:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 10:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-2-0
+Seeker          1-0-0
+
+RotLA Turn 10:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: spin, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 10:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-0
+Seeker          1-0-1
+Orbiter         2-2-2
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-1
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-2-0
+Seeker          1-0-0
+
+RotLA Turn 10:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+Select direction: 1
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 11:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-0
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-0
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 11:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 11:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-0
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-0
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 11:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+Found treasure: ARMOR
+	Treasure Added to Bag
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 11:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-0
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-0
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 11:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: jump, jump, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 11:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-1      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-1-0
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-0-0
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-0
+Seeker          1-0-0
+
+RotLA Turn 11:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+3: WEST
+Select direction: 3
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 12:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-1-1
+Seeker          1-0-0
+
+RotLA Turn 12:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 12:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-1-1
+Seeker          1-0-0
+
+RotLA Turn 12:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+No any treasure found!
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 12:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-1-1
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-0-1
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-2-2
+Blinker         4-1-1
+Seeker          1-0-0
+
+RotLA Turn 12:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: SOUTH
+Select direction: 2
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 13:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-2
+Seeker          1-0-0
+
+RotLA Turn 13:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 13:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-2
+Seeker          1-0-0
+
+RotLA Turn 13:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 13:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-1-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-1
+Blinker         2-0-1
+Seeker          1-0-1
+Orbiter         2-2-1
+Blinker         3-0-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-1
+Seeker          4-1-1
+Orbiter         2-1-2
+Blinker         4-1-2
+Seeker          1-0-0
+
+RotLA Turn 13:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 4
+1: EAST
+2: NORTH
+3: SOUTH
+Select direction: 2
+MOVE - COMMAND EXECUTED!
+
+RotLA Turn 14:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-2
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-0-2
+Blinker         4-0-2
+Seeker          1-0-0
+
+RotLA Turn 14:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 1
+FIGHT - COMMAND EXECUTED!
+
+RotLA Turn 14:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-2
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-0-2
+Blinker         4-0-2
+Seeker          1-0-0
+
+RotLA Turn 14:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 2
+No any treasure found!
+SEARCH - COMMAND EXECUTED!
+
+RotLA Turn 14:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-2
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-0-2
+Blinker         4-0-2
+Seeker          1-0-0
+
+RotLA Turn 14:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 3
+Celebrations: spin, 
+CELEBRATION - COMMAND EXECUTED!
+
+RotLA Turn 14:
+Adventurer      Room       Damage     Health     Treasures Found
+Brawler         1-0-0      1          11         Armor
+
+Total Active Creatures: 9
+Creatures       Room
+Orbiter         3-2-2
+Blinker         2-0-2
+Seeker          1-0-1
+Orbiter         2-2-0
+Blinker         3-1-2
+Seeker          3-2-0
+Orbiter         1-1-0
+Blinker         2-1-0
+Seeker          4-1-1
+Orbiter         2-0-2
+Blinker         4-0-2
+Seeker          1-0-0
+
+RotLA Turn 14:
+0-1-1
+1-0-0               1-0-1               1-0-2               
+1-1-0               1-1-1               1-1-2               
+1-2-0               1-2-1               1-2-2               
+2-0-0               2-0-1               2-0-2               
+2-1-0               2-1-1               2-1-2               
+2-2-0               2-2-1               2-2-2               
+3-0-0               3-0-1               3-0-2               
+3-1-0               3-1-1               3-1-2               
+3-2-0               3-2-1               3-2-2               
+4-0-0               4-0-1               4-0-2               
+4-1-0               4-1-1               4-1-2               
+4-2-0               4-2-1               4-2-2               
+
+
+Orbiters - 3 Remaining
+Seekers - 2 Remaining
+Blinkers - 4 Remaining
+
+
+1: Fight
+2: Search
+3: Celebrate
+4: Move
+Select command: 
